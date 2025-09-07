@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Relief:wght@400;700&family=Cookie&family=Funnel+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+.comic-relief-regular {
+  font-family: "Comic Relief", system-ui;
+  font-weight: 600;
+  font-style: normal;
+}
 
 img {
     display: block;
@@ -59,10 +66,15 @@ body section p{
 body article{
     text-align: center;
 }
+
+ol li{
+    font-size: large;
+       margin: 0 500px;
+}
 body h6{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: medium;
     text-align: center;
+    font-size:large;
+        margin: 10px 0;
 }
 footer h4{
     font-family: Arial, Helvetica, sans-serif;
